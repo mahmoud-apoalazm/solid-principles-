@@ -1,7 +1,4 @@
 # SOLID_Principle
-SOLID Principle of object oriented design with Dart language 
-S.O.L.I.D stands for:
-When expanded the acronyms might seem complicated, but they are pretty simple to grasp.
 S - Single-responsiblity principle >>> A class should have one and only one reason to change, meaning that a class should have only one job.
 O - Open-closed principle >>> Objects or entities should be open for extension, but closed for modification.
 L - Liskov substitution principle >>> Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
